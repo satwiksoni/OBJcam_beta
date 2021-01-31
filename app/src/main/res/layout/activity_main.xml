@@ -27,4 +27,28 @@
         tools:layout_editor_absoluteY="333dp" />
 
 
+    <Button
+        android:id="@+id/FaceDetect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FACE DETECT"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="333dp" />
+    <Button
+        android:id="@+id/Labeler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Image Labeler"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="333dp" />
+    <Button
+        android:id="@+id/Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text recog"
+        tools:layout_editor_absoluteX="185dp"
+        tools:layout_editor_absoluteY="333dp" />
+
+
+
 </LinearLayout>
