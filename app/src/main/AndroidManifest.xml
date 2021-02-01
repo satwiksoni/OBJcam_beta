@@ -19,6 +19,7 @@
 
 
         <activity android:name=".Barcode.BarcodeActivity" />
+        <activity android:name=".ImageLabeler.textrecog.TextRecognitionActivity"/>
         <activity android:name=".CameraActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
